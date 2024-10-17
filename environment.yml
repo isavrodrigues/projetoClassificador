@@ -1,0 +1,6 @@
+name: projetoClassificador
+dependencies:
+  - python=True
+  - pip
+  - pip:
+      - -e .
